@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(27, 36, 74, 1);
+    color: white;
+    padding: 25px;
+    padding-top: 0;
+
+    width: 400px;
+    height: 200px;
+
+    margin-left: 400px;
+    margin-top: 100px;
+    
+}
+
+#homeValue {
+    text-align: center;
+    color: rgba(249, 79, 109, 1);
+    font-size: 25px;
+    
+    
+}
+
+#guestValue {
+      text-align: center;
+    color: rgba(249, 79, 109, 1);
+    font-size: 25px;
+}
+
+#homeid {
+    background: black;
+    width: auto;
+    height: 25pt;
+    padding: auto;
+}
+
+.GuestButton{
+    padding-top: 5px;
+}
+
+.homeButton{
+    padding-top: 5px;
+}
